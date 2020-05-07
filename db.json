@@ -1,0 +1,290 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "name": "Leon Si",
+      "handle": "LeonZaLion",
+      "followers": 345,
+      "following": 756,
+      "feedIds": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "description": "Hi! I'm Leon, and I am an aspiring ultralearner!",
+      "avatarUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQEUgiIGoubZSg/profile-displayphoto-shrink_200_200/0?e=1593043200&v=beta&t=8cd7oLeqjImne2aab1KtX_IqZZRP2dTbBK7ewgpa5HA",
+      "socialMedia": [
+        {
+          "type": "twitter",
+          "url": "https://www.twitter.com/"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/"
+        },
+        {
+          "type": "facebook",
+          "url": "https://www.facebook.com/"
+        },
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/"
+        }
+      ],
+      "challenges": {
+        "1": {
+          "tasksDone": 8,
+          "checkedTasks": {
+            "1": true,
+            "2": true
+          },
+          "verifiedTasks": {
+            "2": true
+          }
+        },
+        "4": {
+          "tasksDone": 5,
+          "verifiedTasks": {}
+        }
+      }
+    },
+    {
+      "id": 1,
+      "name": "Dragon He",
+      "handle": "AbstractUltra",
+      "followers": 3345,
+      "following": 756,
+      "description": "Hi!",
+      "avatarUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQEyzcJ9UyrGtA/profile-displayphoto-shrink_200_200/0?e=1593043200&v=beta&t=9VNkdv_8MFZt-N-0hcNVI7br6CnzyEYDLwYVF8zX3N0",
+      "socialMedia": [
+        {
+          "type": "twitter",
+          "url": "https://www.twitter.com/"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/"
+        },
+        {
+          "type": "facebook",
+          "url": "https://www.facebook.com/"
+        },
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/"
+        }
+      ],
+      "challenges": {
+        "1": {
+          "tasksDone": 8,
+          "checkedTasks": {
+            "1": true,
+            "2": true
+          },
+          "verifiedTasks": {
+            "2": true
+          }
+        },
+        "4": {
+          "tasksDone": 5,
+          "verifiedTasks": {}
+        }
+      }
+    },
+    {
+      "id": 3,
+      "name": "Saffat Aziz",
+      "handle": "Syndicate555",
+      "followers": 9001,
+      "following": 1337,
+      "description": "Computer Engineering Student at Uottawa",
+      "avatarUrl": "https://media-exp1.licdn.com/dms/image/C5603AQGLoSezDQ1gzQ/profile-displayphoto-shrink_200_200/0?e=1593043200&v=beta&t=qhyGdQf75EwR_eSG50r0nHkHad3YTqBUTQdbLBZzt64",
+      "socialMedia": [
+        {
+          "type": "twitter",
+          "url": "https://www.twitter.com/"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/"
+        },
+        {
+          "type": "facebook",
+          "url": "https://www.facebook.com/"
+        },
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/"
+        }
+      ],
+      "challenges": {
+        "1": {
+          "tasksDone": 8,
+          "checkedTasks": {
+            "1": true,
+            "2": true
+          },
+          "verifiedTasks": {
+            "2": true
+          }
+        },
+        "4": {
+          "tasksDone": 5,
+          "verifiedTasks": {}
+        }
+      }
+    }
+  ],
+  "feed": [
+    {
+      "id": 0,
+      "userId": 0,
+      "content": "I just signed up for the challenge \"Earth Day 2020\"! I'm ready to show off my commitment when it comes to caring for the environment ;)",
+      "challengeId": 1,
+      "new": true
+    },
+    {
+      "id": 1,
+      "userId": 1,
+      "content": "I just signed up for the challenge \"Earth Day 2020\"!",
+      "challengeId": 1,
+      "new": true
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "content": "I just signed up for the challenge \"Earth Day 2020\"!",
+      "challengeId": 1
+    },
+    {
+      "id": 3,
+      "userId": 0,
+      "content": "I placed 1st in the challenge \"Energy Savers\"! I've always had great ideas for saving energy and helping out the planet, and I'm extremely grateful for the organizers of this challenge for providing me a platform to share these ideas!",
+      "challengeId": 1
+    },
+    {
+      "id": 4,
+      "userId": 1,
+      "content": "I just signed up for the challenge \"Water Watchers 2020\"!",
+      "challengeId": 2
+    },
+    {
+      "id": 5,
+      "userId": 0,
+      "content": "I just signed up for the challenge \"Water Watchers 2020\"!",
+      "challengeId": 1
+    },
+    {
+      "id": 6,
+      "userId": 2,
+      "content": "I just signed up for the challenge \"Water Watchers 2020\"!",
+      "challengeId": 1
+    },
+    {
+      "id": 7,
+      "userId": 1,
+      "content": "I just signed up for the challenge \"The 2nd R: Reuse\"!",
+      "challengeId": 1
+    },
+    {
+      "id": 8,
+      "userId": 0,
+      "content": "I just signed up for the challenge \"The 2nd R: Reuse\"!",
+      "challengeId": 1
+    },
+    {
+      "id": 9,
+      "userId": 2,
+      "content": "I just signed up for the challenge \"The 2nd R: Reuse\"!",
+      "challengeId": 1
+    }
+  ],
+  "challenges": [
+    {
+      "id": 1,
+      "name": "Earth Day 2020",
+      "description": "Let's show Planet Earth that we care!",
+      "startDate": 1587513600000,
+      "endDate": 1588118400000,
+      "tags": [
+        "environment",
+        "earth day",
+        "green"
+      ],
+      "logoUrl": "https://cdn.clipart.email/7e733111a2c4d79a428960125f160866_planet-earth-clipart-clipart-panda-free-clipart-images_600-590.png",
+      "type": "environment",
+      "totalTasks": 5,
+      "tasks": [
+        {
+          "name": "Pick up 50 pieces of trash from the floor.",
+          "description": "Submit a time-lapse video of you going around your neighbourhood and picking up 50 pieces of trash and throwing them in the garbage, where they belong! Make sure to take proper measures with trash on the ground: use latex gloves and make sure to thoroughly wash your hands after you're done!"
+        },
+        {
+          "name": "Use reusable bags",
+          "description": "Shop with reusable bags! Take a picture of yourself shopping with reusable bags at the store! Make sure that your photo contains your username, so we'll know it's you!"
+        },
+        {
+          "name": "Go outside",
+          "description": "Enjoy the outdoors! Earth Day is about celebrating our planet, and you can show your appreciation for her by sending us a photo of you enjoying the outside, whether that would be reading a book outside or having a picnic! In the end, judges will rank these submissions that will help determine the final rankings, so make them creative!"
+        },
+        {
+          "name": "Shop at a local market",
+          "description": "Food in the grocery stores travels an average of 1,500 miles to get to you. Insetad, shopping at local farmer's market supports local businesses and is much better for the environment. For this task, you'll need to take pictures of yourself shopping at the local farmer's market!"
+        },
+        {
+          "name": "Stop drinking oil",
+          "description": "It takes over 1.5 million barrels of oil to manufacture the amount of plastic water bottles we use up each year. It's a well-known fact that plastic bottles aren't great for the environment. We'd like you to take a picture of you drinking from your reusable water bottle, and a little description/background of how you met your reusable water bottle and how it has served you thus far."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Energy Savers",
+      "description": "Sustainable consumption starts with saving energy.",
+      "startDate": 1587427200000,
+      "endDate": 1587600000000,
+      "tags": [
+        "energy",
+        "efficiency"
+      ],
+      "logoUrl": "https://us.res.keymedia.com/files/image/iStock-energy-efficient-eco-friendly-green-environment--bulbb-483808232.jpg",
+      "type": "energy",
+      "totalTasks": 14
+    },
+    {
+      "id": 3,
+      "name": "Water Watchers",
+      "description": "Saving water, one tap at a time.",
+      "startDate": 1587600000000,
+      "endDate": 1587859200000,
+      "tags": [
+        "water",
+        "efficiency"
+      ],
+      "logoUrl": "https://cdn.clipart.email/6e5774fafbc1448961d55a3b3b623deb_library-of-water-drop-picture-freeuse-transparent-png-files-_920-831.png",
+      "type": "water",
+      "totalTasks": 13
+    },
+    {
+      "id": 4,
+      "name": "The 2nd R: Reuse",
+      "description": "Utilizing creativity to help keep waste out of landfills.",
+      "startDate": 1587600000000,
+      "endDate": 1587945600000,
+      "tags": [
+        "recycling",
+        "efficiency"
+      ],
+      "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTsi9jim1cCBkYbNsZPBX5dNHmexN2YUDviA4F7tkL3xjm5gZFs&usqp=CAU",
+      "type": "recycling",
+      "totalTasks": 15
+    }
+  ]
+}
